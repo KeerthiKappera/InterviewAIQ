@@ -33,7 +33,7 @@ if st.button("Generate Interview Prep"):
             with st.spinner("Reading Resume... Matching JD... Analyzing Company Patterns..."):
                 progress.progress(25)
                 response = requests.post(
-                    "http://127.0.0.1:8000/generate",
+                    "https://interviewaiq1.onrender.com/generate", timeout = 180,
                     files=files,
                     data=data
                 )
