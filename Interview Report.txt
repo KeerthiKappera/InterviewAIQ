@@ -1,0 +1,95 @@
+=============================
+TECHNICAL QUESTIONS (15)
+=============================
+1. How do you implement a RAG pipeline using LangChain and FAISS for semantic retrieval in a Python-based AI application?
+2. Explain the difference between supervised and unsupervised learning, and provide an example of each in the context of autonomous AI agents.
+3. Describe how you would design a high-level architecture for a chatbot using AI/ML components, including natural language processing and machine learning models.
+4. How do you handle overfitting in machine learning models, and what techniques would you use to prevent it in a Python-based AI application?
+5. Implement a simple neural network using Python and a library of your choice (e.g., TensorFlow, PyTorch) to classify a given dataset.
+6. Write a Python function to perform data preprocessing on a given dataset, including handling missing values and data normalization.
+7. Explain the concept of embeddings in the context of natural language processing, and how you would use them in a Python-based AI application.
+8. Describe how you would design a distributed system for autonomous AI agents, including communication protocols and data storage.
+9. How do you optimize the performance of a machine learning model in a Python-based AI application, including hyperparameter tuning and model selection?
+10. Implement a Python function to perform sentiment analysis on a given text dataset using natural language processing techniques.
+11. Explain the difference between a monolithic architecture and a microservices architecture in the context of autonomous AI agents, and describe how you would design a system using each approach.
+12. Describe how you would implement a workflow engine for autonomous AI agents, including task scheduling and resource allocation.
+13. How do you ensure the scalability and reliability of a Python-based AI application, including load balancing and fault tolerance?
+14. Implement a Python function to perform clustering on a given dataset using machine learning algorithms (e.g., k-means, hierarchical clustering).
+15. Explain the concept of transfer learning in the context of machine learning, and how you would use it in a Python-based AI application.
+
+=============================
+BEHAVIORAL QUESTIONS (10)
+=============================
+1. Can you describe a project you worked on where you had to design and implement a machine learning model from scratch? What were some of the challenges you faced, and how did you overcome them?
+2. How do you stay current with new developments in the field of AI and machine learning, and can you give an example of a recent concept or technique you've learned?
+3. Tell me about a time when you had to collaborate with a team to develop a complex AI system. What was your role, and how did you contribute to the project's success?
+4. Can you describe a situation where you had to debug a complex issue in a Python-based AI application? How did you approach the problem, and what was the solution?
+5. How do you handle conflicting priorities and tight deadlines in a software development project, and can you give an example of a time when you had to manage multiple tasks simultaneously?
+6. Tell me about a project you worked on where you had to communicate complex technical concepts to a non-technical audience. How did you approach the communication, and what strategies did you use to ensure understanding?
+7. Can you describe a situation where you had to make a technical decision with limited information or resources? What was the decision, and how did you arrive at it?
+8. How do you approach testing and validation in a Python-based AI application, and can you give an example of a time when you had to design and implement a testing framework?
+9. Tell me about a project you worked on where you had to integrate multiple AI components or systems. What were some of the challenges you faced, and how did you overcome them?
+10. Can you describe a situation where you had to learn a new AI or machine learning concept or technique quickly, and how you applied it to a project or problem?
+
+=============================
+SCENARIO BASED QUESTIONS (5)
+=============================
+1. Suppose you are tasked with developing a chatbot for a customer service application. The chatbot needs to be able to understand natural language input and respond accordingly. How would you approach this problem, and what AI/ML components would you use?
+2. Imagine you are working on a project to develop an autonomous AI agent that can reason and collaborate with humans. What would be some of the key challenges you would face, and how would you address them?
+3. Suppose you are given a dataset of customer interactions with a company's website, and you need to develop a machine learning model to predict customer churn. How would you approach this problem, and what features would you use in your model?
+4. You are tasked with developing a recommender system for an e-commerce application. The system needs to be able to recommend products to customers based on their past purchases and browsing history. How would you approach this problem, and what AI/ML components would you use?
+5. Imagine you are working on a project to develop a natural language processing system for a virtual assistant. The system needs to be able to understand voice commands and respond accordingly. What would be some of the key challenges you would face, and how would you address them?
+
+=============================
+CODING QUESTIONS (5)
+=============================
+1. Implement a Python function to perform sentiment analysis on a given text dataset using natural language processing techniques.
+2. Write a Python program to classify a given dataset using a machine learning algorithm (e.g., logistic regression, decision trees).
+3. Implement a Python function to perform clustering on a given dataset using machine learning algorithms (e.g., k-means, hierarchical clustering).
+4. Write a Python program to develop a simple chatbot using natural language processing techniques and machine learning models.
+5. Implement a Python function to perform data preprocessing on a given dataset, including handling missing values and data normalization.
+
+=============================
+PERSONALIZED QUESTIONS FROM RESUME (5)
+=============================
+1. Can you describe your experience with LangChain and FAISS in your AI Knowledge Assistant project? How did you use these technologies to implement a RAG pipeline for semantic retrieval?
+2. How did you approach the development of your Tweet Sentiment Analysis project, and what natural language processing techniques did you use to analyze the tweets?
+3. Can you walk me through your experience with machine learning models in your AI Research Intern project? How did you develop and evaluate the models, and what were some of the challenges you faced?
+4. How did you design and implement the architecture for your Real-Time Face Mask Detection project, and what computer vision techniques did you use to detect face masks?
+5. Can you describe your experience with data engineering and workflow automation in your Assistant System Engineer role at TCS? How did you use technologies like Apache Airflow and ServiceNow to automate workflows and troubleshoot issues?
+
+=============================
+IMPORTANT TOPICS TO PREPARE
+=============================
+- Python programming fundamentals
+- Machine learning and deep learning concepts
+- AI/ML framework and library expertise (e.g., TensorFlow, PyTorch)
+- Natural language processing techniques
+- Data structures and algorithms
+- Problem-solving and system design
+
+=============================
+MISSING SKILLS IN RESUME
+=============================
+- Experience with Docker, Kubernetes, or cloud platforms
+- Knowledge of distributed systems or workflow orchestration
+- Familiarity with FastAPI, AsyncIO, or similar Python frameworks
+- Experience contributing to open-source projects or building personal AI projects
+
+=============================
+TOP 5 SAMPLE STRONG ANSWERS
+=============================
+Q1: How do you implement a RAG pipeline using LangChain and FAISS for semantic retrieval in a Python-based AI application?
+A1: To implement a RAG pipeline, I would use LangChain to design the architecture and FAISS to index the embeddings. I would then use the indexed embeddings to perform semantic retrieval and generate responses to user queries.
+
+Q2: Can you describe a project you worked on where you had to design and implement a machine learning model from scratch? What were some of the challenges you faced, and how did you overcome them?
+A2: In my AI Research Intern project, I developed a machine learning model to predict admission outcomes. I faced challenges with data preprocessing and model selection, but I overcame them by using techniques like feature engineering and hyperparameter tuning.
+
+Q3: How do you approach testing and validation in a Python-based AI application, and can you give an example of a time when you had to design and implement a testing framework?
+A3: I approach testing and validation by using a combination of unit tests, integration tests, and validation metrics. In my AI Knowledge Assistant project, I designed and implemented a testing framework using Pytest and evaluated the model's performance using metrics like accuracy and F1 score.
+
+Q4: Can you describe a situation where you had to communicate complex technical concepts to a non-technical audience? How did you approach the communication, and what strategies did you use to ensure understanding?
+A4: In my Assistant System Engineer role at TCS, I had to communicate technical concepts to non-technical stakeholders. I approached the communication by using simple language, providing examples, and using visual aids to illustrate complex concepts.
+
+Q5: How do you handle conflicting priorities and tight deadlines in a software development project, and can you give an example of a time when you had to manage multiple tasks simultaneously?
+A5: I handle conflicting priorities and tight deadlines by prioritizing tasks, managing my time effectively, and communicating with the team and stakeholders. In my AI Research Intern project, I had to manage multiple tasks simultaneously, including data preprocessing, model development, and testing. I prioritized tasks based on urgency and importance and managed my time effectively to meet the deadlines.
