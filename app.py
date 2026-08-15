@@ -107,7 +107,7 @@ async def generate_questions(
         """
 
         review_response = client.chat.completions.create(
-            model="llama-3.3-70b-versatile",
+            model="openai/gpt-oss-120b",
             temperature=0.3,
             messages=[
                 {"role": "user", "content": review_prompt}
@@ -221,7 +221,7 @@ async def generate_questions(
         """
         print("NEW PROMPT VERSION RUNNING")
         response = client.chat.completions.create(
-            model="llama-3.3-70b-versatile",
+            model="openai/gpt-oss-120b",
             temperature=0.3,
             messages=[
                 {"role": "user", "content": prompt}
